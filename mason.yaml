@@ -1,5 +1,5 @@
 bricks:
   project_setup_brick:
     path:
-      bricks/project_setup_brick/
+      bricks/project_setup_brick
 
